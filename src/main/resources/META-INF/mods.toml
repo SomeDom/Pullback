@@ -12,7 +12,7 @@ version="${file.jarVersion}"
 
 displayName="Pullback"
 
-logoFile="examplemod.png"
+logoFile="logo.png"
 
 credits="SomeDom"
 
