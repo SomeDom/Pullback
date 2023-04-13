@@ -35,7 +35,7 @@ authors="SomeDom" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 This mod adds exactly the opposite of the Knocback enchantment, Pullback!
-Now you can make sure your enemies and foes cannot escape from your wraith!
+Now you can make sure your enemies and foes cannot escape from your ragigng wraith!
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.pullback]] #optional
